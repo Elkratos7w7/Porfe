@@ -13,10 +13,6 @@ def main():
     print("10. Dólar a Quetzal")
 
     opcion = int(input("Ingrese una opción:"))
-    
-
-       
-
     if opcion == 1:
             num1 = float(input("Ingrese el primer número: "))
             num2 = float(input("Ingrese el segundo número: ")) 
