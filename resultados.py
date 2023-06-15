@@ -49,9 +49,9 @@ def main():
             print(residuo(num1, num2))
     elif opcion == 9:
             num1 = float(input("Ingrese la cantidad que desea convertir: "))
-            print(quetzal_a_dolar(num1 /7.91))       
+            print(quetzal_a_dolar(num1))       
     elif opcion == 10:
             num1 = float(input("Ingrese la cantidad que desea convertir: "))
-            print(quetzal_a_dolar(num1 * 7.91))     
+            print(dolar_a_quetzal(num1))     
                
 main()
