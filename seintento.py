@@ -11,7 +11,7 @@ def division(num1, num2):
     else:
         return num1 / num2
 
-def exponencacion( num1, num2):
+def exponenciacion( num1, num2):
         return num1 ** num2
 def raiz(num):
      return math.sqrt(num)
